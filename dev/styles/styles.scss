@@ -1,0 +1,30 @@
+.Legendary {
+  background: purple;
+  color: white;
+} 
+.Epic {
+  background: orange;
+  color: white;
+}
+.Rare {
+  background: blue;
+  color: white;
+}
+.Common {
+  background: green;
+  color: white;
+}
+.Uncommon {
+  background: lightgray;
+  color: white;
+}
+span {
+  padding: 10px;
+}
+// div {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   flex-wrap: wrap;
+//   flex-direction: column;
+// }

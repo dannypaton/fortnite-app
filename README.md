@@ -1,5 +1,4 @@
-# Getting Started
+# Fortnite Weapons
 
-1. `git clone` this repo
-2. `npm install`
-3. enjoy!
+Just a little project using www.fortnitechests.info/api/weapons.
+It displays all weapons in the game Fortnite.
